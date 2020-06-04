@@ -1,7 +1,7 @@
 # AudioStreamer
 Streaming audio from multiple clients to one server or one server to multiple clients
 
-This is a modified (and more stable) version of microphone streaming <script src="https://gist.github.com/fopina/3cefaed1b2d2d79984ad7894aef39a68.js"></script>
+This is a modified (and more stable) version of microphone streaming in https://gist.github.com/fopina/3cefaed1b2d2d79984ad7894aef39a68
 
 It is tested on Ubuntu 18.04, Ubuntu 20.04, and macos with python3.
 
